@@ -14,9 +14,9 @@
 		   <h3><i>address:Adilaxmi nagar,Ravulapalem pin:533238 <br>  phno:+91912345610</i></h3>	    
    </div>
    <div class="container text-white text-center bg-danger">
-   Book ISBN:{book.isbn}<br>
-   Book Name:{book.bookname} <br>
-   Author:{book.author}<br>
+   Book ISBN:${book.isbn}<br>
+   Book Name:${book.bookname} <br>
+   Author:${book.author}<br>
    Message:${message}    
    </div>
 </body>
