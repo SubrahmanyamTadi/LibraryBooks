@@ -9,7 +9,7 @@
 </head>
 <body>
 		<div class="container-fluid bg-success text-white text-center" >
-		    <h1>Welcome to the Indian Library</h1>
+		    <h1>Welcome to Indian Library</h1>
 		   <h3><i>address:Adilaxmi nagar,Ravulapalem pin:533238 <br>  phno:+91912345610</i></h3>	    
 		</div>
  
